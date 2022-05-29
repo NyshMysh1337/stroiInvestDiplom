@@ -1,0 +1,22 @@
+.map{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+    overflow:hidden;
+}
+
+.map_body{
+
+}
+
+.body_about{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.info_office{
+
+}

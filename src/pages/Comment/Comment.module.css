@@ -1,0 +1,36 @@
+.zag_body{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.comment_body{
+
+}
+
+.input_comment{
+    width: 700px;
+    padding: 4px;
+    border: 1px solid #656665;
+    margin-top: 20px;
+
+}
+
+.button_comment{
+    padding: 10px;
+    font-size: 15px;
+    background: orange;
+    border: 1px solid #656665;
+    border-radius: 10px;
+}
+
+.btn_body{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.input_body_wrapper{
+    display: flex;
+    justify-content: center;
+}

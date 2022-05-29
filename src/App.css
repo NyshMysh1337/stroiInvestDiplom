@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+}
+
+.header_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 50px;
+    width: auto;
+    margin-top: 30px;
+}
+
+.header_logo{
+    display: flex;
+}
+
+.link_header{
+    display: flex;
+    align-items: center;
+    color: black;
+    text-decoration: none;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+}
+
+.logo{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+}
+
+.body_glav_wrapper{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    height: 100%;
+    justify-content: center;
+
+}
+.awdawd{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.zag_body{
+    display: flex;
+    justify-content: center;
+    margin-top: 170px;
+    align-items: center;
+}
+
+.zag_body_wrapper{
+
+}
+
+.pod_zag_body{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.pod_zag{
+    font-size: 20px;
+}
+
+.etap_proiz{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.o_nas_info{
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}

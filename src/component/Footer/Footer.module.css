@@ -1,0 +1,42 @@
+.logo_footer{
+
+}
+
+.footer_wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.instagram{
+   width: 30px;
+    height: 30px;
+    margin-left: 20px;
+}
+
+.footer_info{
+    font-size: 19px;
+}
+
+.footer{
+    background: #656665;
+    margin-top: 70px;
+}
+
+.table_footer{
+    background: #656665;
+    border: #656665;
+}
+
+.tabel_colomne_footer{
+
+}
+
+.pole_footer{
+    background: #656665;
+    text-decoration: none;
+    color: black;
+}
+
+.link_page{
+    text-decoration: none;
+}

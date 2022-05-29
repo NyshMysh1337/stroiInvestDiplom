@@ -1,0 +1,69 @@
+{
+  "home": [
+    {
+      "id": 1,
+      "name": "Дом Садовод",
+      "material": "Дерево",
+      "S": 13,
+      "img": "https://static.tildacdn.com/tild3632-6665-4737-b461-303031623334/02.jpg",
+      "img2": "https://thumb.tildacdn.com/tild3538-6562-4132-b966-613136626238/-/resize/800x600/-/format/webp/WhatsApp_Image_2021-.jpeg",
+      "img3": "http://almode.ru/uploads/posts/2021-05/1620457731_61-p-zagorodnii-dom-snaruzhi-61.jpg",
+      "planImg": "https://thumb.tildacdn.com/tild3237-3937-4539-b466-356435376137/-/resize/560x/-/format/webp/_254__.png",
+      "opisanie": "Небольшой, простой садовый дом. С компактной террасой дом смотрится симпатично.",
+      "priseBase": 218000,
+      "prisePrem": 450000
+    },
+    {
+      "id": 2,
+      "name": "Дом Уют",
+      "material": "Дерево",
+      "S": 17,
+      "img": "https://static.tildacdn.com/tild6336-3265-4465-a361-666630373065/02.jpg",
+      "planImg": "https://thumb.tildacdn.com/tild6237-6465-4234-b134-323331316466/-/resize/560x/-/format/webp/_44___24.png",
+      "opisanie": "Одноэтажный садовый дом с чердаком",
+      "priseBase": 318000,
+      "prisePrem": 540000
+    },
+    {
+      "id": 3,
+      "name": "Дом Гранд",
+      "material": "Дерево",
+      "S": 15,
+      "img": "https://static.tildacdn.com/tild6631-6136-4834-b865-303061663431/04.jpg",
+      "planImg": "https://thumb.tildacdn.com/tild3331-3133-4737-b937-303662313265/-/resize/560x/-/format/webp/_66-2.png",
+      "opisanie": "Одноэтажный дачный дом",
+      "priseBase": 308000,
+      "prisePrem": 510000
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "name": "Игнат",
+      "body": "Все супер"
+    },
+    {
+      "id": 2,
+      "name": "Михаил",
+      "body": "Все круто"
+    },
+    {
+      "id": 3,
+      "name": "Елена",
+      "body": "Сделали все супер, вопросов нет"
+    },
+    {
+      "name": "Дмитрий",
+      "body": "Очень крутой сайт, а главное дизайн какой хороший",
+      "id": 4
+    }
+  ],
+  "order": [
+    {
+      "id": 1,
+      "name": "Игнат",
+      "email": "ignat.bir@bk.ru",
+      "phone": 89991236654
+    }
+  ]
+}

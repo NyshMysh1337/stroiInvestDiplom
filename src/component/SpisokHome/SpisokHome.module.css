@@ -1,0 +1,30 @@
+.glav_img{
+    width: 300px;
+}
+
+.body_glav{
+    margin-top: 140px;
+    margin-left: 30px;
+    width: 400px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+}
+
+.name_home{
+    display: flex;
+    justify-content: center;
+}
+
+.info_home{
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.podr_home{
+    padding: 5px;
+    font-size: 20px;
+    color: white;
+    background: #363636;
+}

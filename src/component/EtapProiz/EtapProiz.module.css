@@ -1,0 +1,26 @@
+.body{
+    background: lightblue;
+    width: 300px;
+    margin-top: 60px;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+.id{
+    border: 1px solid black;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.name{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.body_etap{
+    font-size: 20px;
+}
